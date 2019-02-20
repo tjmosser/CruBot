@@ -1,0 +1,11 @@
+{
+  "name": "CruBot",
+  "version": "1.0.0",
+  "description": "Discord bot to manage and maintain the Cru Huntsville Discord Server",
+  "main": "bot.js",
+  "author": "T.J. Mosser",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
